@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
 Let's discover **libromarko in less than 5 minutes**.
 
