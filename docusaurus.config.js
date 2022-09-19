@@ -86,7 +86,7 @@ const config = {
               },
             ],
           },
-          {
+          /* {
             title: 'Community',
             items: [
               {
@@ -102,7 +102,7 @@ const config = {
                 href: 'https://twitter.com/docusaurus',
               },
             ],
-          },
+          }, */
           {
             title: 'More',
             items: [
@@ -112,7 +112,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/libromarko',
               },
             ],
           },
