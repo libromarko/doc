@@ -78,6 +78,31 @@ const config = {
         style: 'dark',
         links: [
           {
+            title: 'libromarko',
+            items: [
+              {
+                label: 'libromarko',
+                href: 'https://libromarko.xyz',
+              },
+              {
+                label: 'Chrome Web Store',
+                href: 'https://chrome.google.com/webstore/detail/libromarko/jpbjepefiibjgekgaloekkfbjciigcfg',
+              },
+              {
+                label: 'Firefox Add-on',
+                href: 'https://addons.mozilla.org/en-US/firefox/addon/libromarko/'
+              },
+              {
+                label: 'Google Play Store',
+                href: 'https://play.google.com/store/apps/details?id=xyz.libromarko.app'
+              },
+              {
+                label: 'status',
+                href: 'https://status.libromarko.xyz/status/libromarko',
+              },
+            ],
+          },
+          {
             title: 'Docs',
             items: [
               {
@@ -96,19 +121,6 @@ const config = {
                 label: 'How to use - extension',
                 to: '/docs/category/how-to-use---extension'
               }
-            ],
-          },
-          {
-            title: 'libromarko',
-            items: [
-              {
-                label: 'libromarko',
-                href: 'https://libromarko.xyz',
-              },
-              {
-                label: 'status',
-                href: 'https://status.libromarko.xyz/status/libromarko',
-              },
             ],
           },
           {
