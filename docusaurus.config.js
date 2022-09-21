@@ -81,35 +81,39 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Docs',
+                label: 'Getting Started',
                 to: '/docs/intro',
+              },
+              {
+                label: 'How to use - web',
+                to: '/docs/category/how-to-use---web'
+              },
+              {
+                label: 'How to use - app',
+                to: '/docs/category/how-to-use---app'
+              },
+              {
+                label: 'How to use - extension',
+                to: '/docs/category/how-to-use---extension'
+              }
+            ],
+          },
+          {
+            title: 'libromarko',
+            items: [
+              {
+                label: 'libromarko',
+                href: 'https://libromarko.xyz',
+              },
+              {
+                label: 'status',
+                href: 'https://status.libromarko.xyz/status/libromarko',
               },
             ],
           },
-          /* {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          }, */
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                href: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/libromarko',
