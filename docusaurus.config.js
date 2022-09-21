@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'libromarko',
   tagline: 'Documantation',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://doc.libromarko.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
