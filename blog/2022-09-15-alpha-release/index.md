@@ -2,7 +2,7 @@
 slug: alpha-release
 title: Alpha Release
 authors: [yp]
-tags: [release]
+tags: [release, web]
 ---
 
 ![Alpha Release](./photo-1636819488524-1f019c4e1c44.png)
