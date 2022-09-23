@@ -19,7 +19,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Read Documantation
+            Read Documentation
           </Link>
           &nbsp; {"OR"} &nbsp;
           <Link className="button button--secondary button--lg" to="/blog">

@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to use all platforms',
+    title: 'Easy to use',
     Svg: require('@site/static/img/undraw_progressive_app_m-9-ms.svg').default,
     description: (
       <>
@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on simplicity',
+    title: 'Simplicity',
     Svg: require('@site/static/img/undraw_synchronize_re_4irq.svg').default,
     description: (
       <>

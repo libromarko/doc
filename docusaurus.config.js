@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'libromarko',
-  tagline: 'Documantation',
+  tagline: 'Documentation',
   url: 'https://doc.libromarko.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
