@@ -9,4 +9,7 @@ tags: [release, doc]
 
 ![docusaurus burn!](./docusaurus-born.png)
 
-The new blog site is online. With this innovation, we combined blog and documentation.
+The new documentation site is online. With this upgrade, we combined blog and documentation.
+We used [docusaurus](https://docusaurus.io/) with this upgrade.
+
+You can find our next updates here, and the documents in the documents section.
